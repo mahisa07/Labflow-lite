@@ -196,24 +196,24 @@ The deployed application contains the migrated project data:
 
 <!-- Replace the path below with your actual screenshot -->
 
-![LabFlow Lite Home Page](home page.png)
+![Labflow Lite Home](home_page.png)
 
 ---
 
 ### 🔐 Login Page
 
-![LabFlow Lite Login](login page.png)
+![LabFlow Lite Login](login_page.png)
 
 ---
 
 ### 👨‍🎓 Student Dashboard
 
-![Labflow Lite dashboard](dashboard page.png)
+![Labflow Lite dashboard](dashboard_page.png)
 ---
 
 ### 👨‍🏫 Faculty Dashboard
 
-![Faculty Dashboard](g)
+![Faculty Dashboard]()
 
 ---
 
