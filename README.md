@@ -208,24 +208,24 @@ The deployed application contains the migrated project data:
 
 ### 👨‍🎓 Student Dashboard
 
-![Labflow Lite dashboard](dashboard_page.png)
+![Labflow Lite dashboard](dashboard_page.jpeg)
 ---
 
 ### 👨‍🏫 Faculty Dashboard
 
-![Faculty Dashboard]()
+![Faculty Dashboard](faculty_portal.jpeg)
 
 ---
 
-### 🧪 Laboratory Management
+### 🧪 QR scanner
 
-![Laboratory Management](screenshots/labs.png)
+![QR scanner](laboratoty_page.jpeg)
 
 ---
 
 ### 🔧 Equipment Management
 
-![Equipment Management](screenshots/equipment.png)
+![Equipment Management](equipment_page.jpeg)
 
 ---
 
